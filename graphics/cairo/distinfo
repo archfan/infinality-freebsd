@@ -1,0 +1,9 @@
+TIMESTAMP = 1468525982
+SHA256 (cairo-1.14.6.tar.xz) = 613cb38447b76a93ff7235e17acd55a78b52ea84a9df128c3f2257f8eaa7b252
+SIZE (cairo-1.14.6.tar.xz) = 36040596
+SHA256 (cairo-make-lcdfilter-default1.patch) = 9d692ffdbb13eaf5a66e7b5821fa6d67f2dbe3629d86d40e44f8bdcf0e6cdc2d
+SIZE (cairo-make-lcdfilter-default1.patch) = 984
+SHA256 (cairo-respect-fontconfigpb.patch) = 3ef17cfd14b3edc14092b5e96fc63673b6b020b7f05adaa59d3c3e4b0cfdde66
+SIZE (cairo-respect-fontconfigpb.patch) = 554
+SHA256 (cairo-webkit-html5-fix.patch) = e4fea537fae57f42a453dbace666482fc4de4cb7090d0141fdefb4388f842f32
+SIZE (cairo-webkit-html5-fix.patch) = 1009

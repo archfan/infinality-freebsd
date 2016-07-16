@@ -1,0 +1,7 @@
+TIMESTAMP = 1468711453
+SHA256 (freetype-2.6.3.tar.bz2) = 371e707aa522acf5b15ce93f11183c725b8ed1ee8546d7b3af549863045863a2
+SIZE (freetype-2.6.3.tar.bz2) = 1753083
+SHA256 (01-freetype-263-enable-valid.patch) = 086c9874ba5217dab419ac03dbc5ad6480aaa67b3c9d802f7181d8a3e007f8eb
+SIZE (01-freetype-263-enable-valid.patch) = 580
+SHA256 (03-infinality-263-20160416.patch) = 7ee90ff7aa458f152f5b4dbfd5da2269641a936ae45be1dc43d20cf094ad0d57
+SIZE (03-infinality-263-20160416.patch) = 208563

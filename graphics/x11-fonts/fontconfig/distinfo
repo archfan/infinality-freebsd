@@ -1,0 +1,13 @@
+TIMESTAMP = 1468711057
+SHA256 (fontconfig-2.11.95.tar.bz2) = 7b165eee7aa22dcc1557db56f58d905b6a14b32f9701c79427452474375b4c89
+SIZE (fontconfig-2.11.95.tar.bz2) = 1591200
+SHA256 (01-configure.patch) = 7cb8401c2acbc4ac7a9e4a948a4b04d3b5446cb1153fab351c8d92d1306719ac
+SIZE (01-configure.patch) = 2828
+SHA256 (02-configure.ac.patch) = ba8815b38d5d6e307d2107966c8b2ce0d2d48212ab99b55a56c6d66621b705ce
+SIZE (02-configure.ac.patch) = 1591
+SHA256 (03-Makefile.in.patch) = 0676efe16ffe6a032fe2e8be1405974d633220ddcf7ea38cf686e521b3d83735
+SIZE (03-Makefile.in.patch) = 5019
+SHA256 (04-Makefile.conf.d.patch) = 23d4b437607fbd4bcd81de566765d75c02fb21a54c4487850b783acb7da2d22b
+SIZE (04-Makefile.conf.d.patch) = 3312
+SHA256 (05-Makefile.am.in.patch) = a623af1853e6d233620b7908372db568c5a3802862a95ef6964af361df5424a0
+SIZE (05-Makefile.am.in.patch) = 1845
